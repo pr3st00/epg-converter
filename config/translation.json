@@ -1,0 +1,20 @@
+{
+    "name": "GO IPTV",
+    "description": "GO IPTV",
+    "rules": {
+        "replaces": [
+            {
+                "key": "A&amp;E",
+                "value": "A&E"
+            },
+            {
+                "key": "Prime Box Brazil",
+                "value": "BQ7"
+            },
+            {
+                "key": "Fox Sports",
+                "value": "FSP"
+            }
+        ]
+    }
+}
